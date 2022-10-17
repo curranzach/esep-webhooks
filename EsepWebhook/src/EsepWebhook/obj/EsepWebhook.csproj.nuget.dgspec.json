@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\curra\\projects\\esep-webhooks\\esepwebhook\\src\\esepwebhook\\EsepWebhook.csproj": {}
+    "C:\\Users\\curra\\projects\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\curra\\projects\\esep-webhooks\\esepwebhook\\src\\esepwebhook\\EsepWebhook.csproj": {
+    "C:\\Users\\curra\\projects\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\curra\\projects\\esep-webhooks\\esepwebhook\\src\\esepwebhook\\EsepWebhook.csproj",
+        "projectUniqueName": "C:\\Users\\curra\\projects\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "C:\\Users\\curra\\projects\\esep-webhooks\\esepwebhook\\src\\esepwebhook\\EsepWebhook.csproj",
+        "projectPath": "C:\\Users\\curra\\projects\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "packagesPath": "C:\\Users\\curra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\curra\\projects\\esep-webhooks\\esepwebhook\\src\\esepwebhook\\obj\\",
+        "outputPath": "C:\\Users\\curra\\projects\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\curra\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
